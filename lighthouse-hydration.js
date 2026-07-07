@@ -25,8 +25,8 @@ receiveHydrationTracker({
     "showImages": true,
     "campaignTitle": "Help us fill the bottle!",
     "campaignSubtitle": "Every ounce logged adds to the splash.",
-    "topCardHeader": "CHALLENGE SHOUTOUT",
-    "bottomCardHeader": "HYDRATION REMINDER",
+    "topCardHeader": "LET'S GET HYDRATED!",
+    "bottomCardHeader": "HELP US FILL THE BOTTLE",
     "bottomRightImageTitle": "Text can go here!",
     "bottomRightImageBody": "Input some text here while images are displayed.",
     "shoutoutSlides": [
@@ -68,6 +68,12 @@ receiveHydrationTracker({
       "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783454400000/vpPloY3yXSu2PsnsMpUU6A/6v9eA71hl2uXRP3eORTGpub5FcgJK-X-R-osSXkj6dkJkwkjDDl_Q0xi5w44cS7q_GpZf5xQf0jUirlMaLAvn517EBWb-VaiSm6ych4b5Eu4Anaz90-nBC2pgcJv5A79RQSIvxqYMWFn25X4zol93oGVWaW_gG2g5fNU8_YquAU/2PqkX5XaP35OqhkjCnLNRq0YeIGg5VbJ-9iceGfMrkM",
       "filename": "house_example.png",
       "recordId": "rec3lpLZJPPLr3ki0"
+    },
+    {
+      "text": "Photo of New Hampshire",
+      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783454400000/lBMe6g95E1H4AbEa5x5RMQ/TO4rER_JPpHmwqsYxWs57wMytqfIEbP9m1L3r1_A7Qfxjrr1FVkZlmJiMSxzj-sD_rnqhKXJx4slBZtyncALg_xTiTxkM2KiO6ABKUALXL0cpG1xETZC2ZVxsGQ_Nxoex7vif27RLW9NT5FXOjvq1Q/TROvCdRRHS4D1ZRf5-ux0GEB4rSL_lQtIRNdwilIu6k",
+      "filename": "NH_2.jpg",
+      "recordId": "recNohKlU2aXeFCwg"
     }
   ],
   "latestEntry": {
@@ -75,5 +81,5 @@ receiveHydrationTracker({
     "ounces": 20,
     "submittedAt": "2026-07-07T15:06:44.000Z"
   },
-  "updatedAt": "2026-07-07T16:42:48.894Z"
+  "updatedAt": "2026-07-07T16:47:49.620Z"
 });
