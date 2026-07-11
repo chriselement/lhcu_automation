@@ -65,13 +65,13 @@ receiveHydrationTracker({
   "images": [
     {
       "text": "Demo Image",
-      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783778400000/FmZqcgowywxOv8AYZsHsnw/KHJZ_Dk-e5NfZiPzGwQIzb-Z_lsZsIyteWMmhpQxTFewRqfJScux5mulxV8RtXjdaODgoiT3Ewq2mBoiXW4WlT4oBqpzwLuuh54HhNR-RkHdv-pi4RLKwM18Sc9Eygi4M2TFd5TWPr7vGySrrKd1QPfriXJ0fhiFzFtfNvBflHM/Fj7gPkswheehS_v327oF8unLJZNPMDDEstFXQ5IkOLI",
+      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783785600000/xNDmXf__3S-DdVCCJqYMjw/xhFt0mAjvnErBZEV3YUT_8lLrwrwk_9SUlcTcDi2Gz_tm6HVe5c1_oKVjSFLArI9hM4f1XBxYLG94J55apndHjUCkk19yBc68Dn0VDFJ7dQI2QiTKpwoIoTNKYE7eMSCrKCoqITjwVqfOkfc8Q7Hw7S-L_-tpUKGxFhUuoX72tg/BqepP5_Dfd1eJ7_dHbcw3rHf0hfe2haEzC4isVUxt8M",
       "filename": "house_example.png",
       "recordId": "rec3lpLZJPPLr3ki0"
     },
     {
       "text": "Photo of New Hampshire",
-      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783778400000/uCK5XIE5xJJwDda8I2T5sA/05kzMuoaF7qAjJM4Q9_xrDa7FEdEb8ZRiYBf5KSqihfnjNxNvX-Cfzquok9fSIi9c4_gelIgt3igFsiWI3LxACbtkMXuy7RJOdpsBA3aO9xgmrPYK9KRMoFOaSwCaPYVhLVbRMC32B554i265S-Slg/thmpoKcR9RXrdjMvGBfFLaz1voaZTBSKJxVS66s9e4g",
+      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783785600000/j3DV9HpEqOET-bIMaqzBYg/8n1h-20DOVVRRAregsgyIYWKHydSZsyKPZXAnoZ5NC1kOsZsepEwOP_5J91TznIiewKYMCLlr0qhnRJeG9edMHx4SAQQ_zJh75o8nwbsGPSYgaVXSK2hz4avYBDC9tbp8lN4AwCqYkjHowmkc0gV6A/bC05R7umQUFTLYEtb0jvdEx1-wv5CzvJMABOQiCC1yI",
       "filename": "NH_2.jpg",
       "recordId": "recNohKlU2aXeFCwg"
     }
@@ -81,5 +81,5 @@ receiveHydrationTracker({
     "ounces": 20,
     "submittedAt": "2026-07-07T15:06:44.000Z"
   },
-  "updatedAt": "2026-07-11T11:57:47.679Z"
+  "updatedAt": "2026-07-11T12:02:47.535Z"
 });
