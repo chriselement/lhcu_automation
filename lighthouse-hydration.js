@@ -65,13 +65,13 @@ receiveHydrationTracker({
   "images": [
     {
       "text": "Demo Image",
-      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783735200000/KRih0PenKdY4BYeP-yj6rg/MwrkRl1lZ_xNhDEAdAUI9xyz3j72WK_nV6dttOS5ydpVYvdFjL9w33oS2ydVAid04NCj-a_Q17D5pyY_ICZoBd2XPSxZ5b83Zl0nShu1YH2mA1RVsvKlbukQS8BZlLWBnGZvBaWgLVSbNoaauGhU5VISZp4JhGh4V_HQgwgC_ko/KcNiVLto5TPiUMJ9RcWy3fmGODH9_YKl-cfcguJtln0",
+      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783742400000/vCx5_hpOA0U1bbsGHic8RA/Wa814JkRJlcWR8El3WWx8wxJ9LwnCmfCMZ6aMGfEVVICMlNhanjixFaVb_hrYpsRYdbB2wzm-xiNZ-Srn-cV5GlrbxWBpANO5gP2Qw1KreSoMO5kNdkmO4E20xkpmDW-l31EWksB5xQCczg3fOJRHGQvQOY7vckZSacjkE_uCEk/e7iDWItVVCHDfA5UeQuY-33RaiFrCmNqWADmPSQ_TO4",
       "filename": "house_example.png",
       "recordId": "rec3lpLZJPPLr3ki0"
     },
     {
       "text": "Photo of New Hampshire",
-      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783735200000/ShXEsopXlR-w1JIGF0WoFA/1V51p0ZhBMX6YRiRJyFwGFw1MSYANJWugiHSvhl5JBZos1GwgNGtaHCWdozmO0fhB4H-D7QbqajP-UrxpvJcZjgV_J77lSerSOTay0T-qz589okdv5D4_iuAKl9ZYbct0J3T39zr1AKPXHVwHH4ZXg/xS8s_-ZYDPbxnMydZkSX_IzTQraJOxC3uxSUz_RTaIU",
+      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783742400000/uWbFoOHgi_pHjcOXfDrDvA/FDRcK4lKIQNHRd6iF4OUvd28Tw2k8sLsVMz7dKQclbtrCMWvFbdtByZo9aba80fqJW6cUUMxllmsjAKicjQTVbwA9pnIszwdbRo5UhO4xkjyUBjfrVQ6fbBaoJAnJyEgqig2S4YI4nwbwi3Y5dLlMQ/oc5X642BgNPILuwAKQiAcY2HB4via7Lq36MNqzueNMI",
       "filename": "NH_2.jpg",
       "recordId": "recNohKlU2aXeFCwg"
     }
@@ -81,5 +81,5 @@ receiveHydrationTracker({
     "ounces": 20,
     "submittedAt": "2026-07-07T15:06:44.000Z"
   },
-  "updatedAt": "2026-07-10T23:57:48.562Z"
+  "updatedAt": "2026-07-11T00:02:47.973Z"
 });
