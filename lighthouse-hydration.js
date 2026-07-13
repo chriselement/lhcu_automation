@@ -3,7 +3,7 @@ receiveHydrationTracker({
   "campaignTitle": "Help us fill the bottle!",
   "campaignSubtitle": "Every ounce logged adds to the splash.",
   "totalOunces": 116,
-  "weekOunces": 20,
+  "weekOunces": 0,
   "participants": 1,
   "display": {
     "total": {
@@ -12,9 +12,9 @@ receiveHydrationTracker({
       "subtext": "116 oz logged to date"
     },
     "week": {
-      "value": "20",
+      "value": "0",
       "unit": "oz",
-      "subtext": "20 oz logged this week"
+      "subtext": "0 oz logged this week"
     }
   },
   "bottle": {
@@ -65,13 +65,13 @@ receiveHydrationTracker({
   "images": [
     {
       "text": "Demo Image",
-      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783922400000/Av9Mw4-mUnLXFLQBAChGIg/PbN1GRr_k-DLiJkJT5BzUh2wTXg49pNJmAPhjUisBH7gfKmJwF1s96Etk0QM1ozPRDk8jBIEkyrYz3yPP3AZYcSH2tUW2BTXXZj4hntim6WHN9kx0jkyEwAkRLlTRUy5fQUGN4xK3L7LibbCjLpevB4THyeBeAE6Y8BDPKi77fo/fPc5-1SJfGwsgz8nX19XV0adTejWmAnkXpaxC4uVErU",
+      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783929600000/4EEZL81zC1vs_Rob31SuEQ/qdWhH2lnOA9gkdDnDTZzk3hjbYjyZds2mUfjQbCaD0UvDGIw4szltcXboaWt8OgpzvOKehziJdL6Bi6QBuWjgf1Pp0T_0st6VKF6yiobriQrLyXlCnwuPzHlxxk5Yi_MQqSvQzYSz9rN3Szq5R2fS_Myar19Kf76skbd6_Xs9Us/kbgOpXirknIvxXWJcQLWkmVZ84uNDYNTy_rkIR6gTN8",
       "filename": "house_example.png",
       "recordId": "rec3lpLZJPPLr3ki0"
     },
     {
       "text": "Photo of New Hampshire",
-      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783922400000/bt3QItD3hzISjb1R4hkcew/Td2QkCvG4S5pr1od2vyNSUHrvKmC36KgIheejGF-5CbVst8-tZ51l52wLa5nwoo-FDWaxEzewIm4f22IIYN0U-zmHn3cOCc1lqtutE6hVl3Vk7Gk7PAoeLcscv5c3z-xJYiZUZqWJLy-Rf6HnGDrgw/1_7yiWMaCQvPjX8SRHSHbbJwrxIAThtfZ0Bw2ge4SsA",
+      "url": "https://v5.airtableusercontent.com/v3/u/55/55/1783929600000/mVTmRruDpg1rH-N5k0ncAg/4Z1Ty9SM4MzS7MKuAl4-kjSGJAsA2qgpZabAnt-aMZbaGu-9USGiKJvPhjJJCXWV1izKY6UVZtCsw4mdGIsI67M2chZW4hhps8dPdIA4rMQl_3oGGxgVosHknLoQf3A_sydcJBdSH3WEsDvPTX8qnA/sgUSXhGC0scSL6RC2HCw9skWrPoU8q0PH_oHkUk_MVM",
       "filename": "NH_2.jpg",
       "recordId": "recNohKlU2aXeFCwg"
     }
@@ -81,5 +81,5 @@ receiveHydrationTracker({
     "ounces": 20,
     "submittedAt": "2026-07-07T15:06:44.000Z"
   },
-  "updatedAt": "2026-07-13T03:57:48.087Z"
+  "updatedAt": "2026-07-13T04:02:47.570Z"
 });
