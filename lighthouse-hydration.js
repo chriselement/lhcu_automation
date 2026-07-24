@@ -2,23 +2,23 @@ receiveHydrationTracker({
   "success": true,
   "campaignTitle": "Help us fill the bottle!",
   "campaignSubtitle": "Every ounce logged adds to the splash.",
-  "totalOunces": 34154,
-  "weekOunces": 34154,
+  "totalOunces": 34366,
+  "weekOunces": 34366,
   "participants": 1,
   "display": {
     "total": {
-      "value": "266.8",
+      "value": "268.5",
       "unit": "gallons",
-      "subtext": "34,154 oz logged to date"
+      "subtext": "34,366 oz logged to date"
     },
     "week": {
-      "value": "266.8",
+      "value": "268.5",
       "unit": "gallons",
-      "subtext": "34,154 oz logged this week"
+      "subtext": "34,366 oz logged this week"
     }
   },
   "bottle": {
-    "fillPercent": 97.58285714285714,
+    "fillPercent": 98.18857142857142,
     "nextMilestone": "35,000 oz"
   },
   "content": {
@@ -65,8 +65,8 @@ receiveHydrationTracker({
   "images": [],
   "latestEntry": {
     "name": "Lighthouse HQ",
-    "ounces": 215,
-    "submittedAt": "2026-07-24T16:00:40.000Z"
+    "ounces": 212,
+    "submittedAt": "2026-07-24T16:15:37.000Z"
   },
-  "updatedAt": "2026-07-24T16:12:50.727Z"
+  "updatedAt": "2026-07-24T16:17:50.388Z"
 });
