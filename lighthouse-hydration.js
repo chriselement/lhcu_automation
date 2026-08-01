@@ -68,5 +68,5 @@ receiveHydrationTracker({
     "ounces": 85553,
     "submittedAt": "2026-07-20T14:03:31.000Z"
   },
-  "updatedAt": "2026-08-01T16:07:50.851Z"
+  "updatedAt": "2026-08-01T16:12:48.807Z"
 });
