@@ -3,7 +3,7 @@ receiveHydrationTracker({
   "campaignTitle": "Help us fill the bottle!",
   "campaignSubtitle": "Every ounce logged adds to the splash.",
   "totalOunces": 168082,
-  "weekOunces": 76192,
+  "weekOunces": 0,
   "participants": 1,
   "display": {
     "total": {
@@ -12,9 +12,9 @@ receiveHydrationTracker({
       "subtext": "168,082 oz logged to date"
     },
     "week": {
-      "value": "595.3",
-      "unit": "gallons",
-      "subtext": "76,192 oz logged this week"
+      "value": "0",
+      "unit": "oz",
+      "subtext": "0 oz logged this week"
     }
   },
   "bottle": {
@@ -68,5 +68,5 @@ receiveHydrationTracker({
     "ounces": 76192,
     "submittedAt": "2026-08-06T00:15:23.000Z"
   },
-  "updatedAt": "2026-08-10T03:57:49.921Z"
+  "updatedAt": "2026-08-10T04:02:49.487Z"
 });
