@@ -1,7 +1,7 @@
 receiveHydrationTracker({
   "success": true,
-  "campaignTitle": "FIRST PLACE",
-  "campaignSubtitle": "Beth Schiavello",
+  "campaignTitle": "Beth Schiavello",
+  "campaignSubtitle": "FIRST PLACE",
   "totalOunces": 338522,
   "weekOunces": 165982,
   "participants": 1,
@@ -23,28 +23,28 @@ receiveHydrationTracker({
   },
   "content": {
     "showImages": false,
-    "campaignTitle": "FIRST PLACE",
-    "campaignSubtitle": "Beth Schiavello",
+    "campaignTitle": "Beth Schiavello",
+    "campaignSubtitle": "FIRST PLACE",
     "topCardHeader": "LET'S GET HYDRATED!",
     "bottomCardHeader": "HELP US FILL THE BOTTLE",
     "bottomRightImageTitle": "Text can go here!",
     "bottomRightImageBody": "Input some text here while images are displayed.",
     "shoutoutSlides": [
       {
-        "topTitle": "FIRST PLACE",
-        "topBody": "Beth Schiavello",
+        "topTitle": "Beth Schiavello",
+        "topBody": "FIRST PLACE",
         "bottomTitle": "Hydration Challenge Winners!",
-        "bottomBody": "Congratulations to our Lighthouse Hydration Challenge winners! ?"
+        "bottomBody": "Congratulations to our Lighthouse Hydration Challenge winners!"
       },
       {
-        "topTitle": "SECOND PLACE",
-        "topBody": "Mary White",
+        "topTitle": "Mary White",
+        "topBody": "SECOND PLACE",
         "bottomTitle": "Cheers to Our Hydration Challenge Winners!",
         "bottomBody": "Thanks to everyone who participated and made healthy hydration a priority. Keep those good habits flowing!"
       },
       {
-        "topTitle": "THIRD PLACE",
-        "topBody": "Ray Will",
+        "topTitle": "Ray Will",
+        "topBody": "THIRD PLACE",
         "bottomTitle": "The bottle is thirsty.",
         "bottomBody": "You showed up, stayed consistent, and kept those water bottles working overtime."
       },
@@ -68,5 +68,5 @@ receiveHydrationTracker({
     "ounces": 165982,
     "submittedAt": "2026-08-20T20:38:47.000Z"
   },
-  "updatedAt": "2026-08-20T20:47:48.129Z"
+  "updatedAt": "2026-08-20T20:52:47.576Z"
 });
