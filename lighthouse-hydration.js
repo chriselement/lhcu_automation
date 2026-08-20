@@ -1,72 +1,72 @@
 receiveHydrationTracker({
   "success": true,
-  "campaignTitle": "Help us fill the bottle!",
-  "campaignSubtitle": "Every ounce logged adds to the splash.",
-  "totalOunces": 172540,
-  "weekOunces": 0,
+  "campaignTitle": "FIRST PLACE",
+  "campaignSubtitle": "Beth Schiavello",
+  "totalOunces": 338522,
+  "weekOunces": 165982,
   "participants": 1,
   "display": {
     "total": {
-      "value": "1348.0",
+      "value": "2644.7",
       "unit": "gallons",
-      "subtext": "172,540 oz logged to date"
+      "subtext": "338,522 oz logged to date"
     },
     "week": {
-      "value": "0",
-      "unit": "oz",
-      "subtext": "0 oz logged this week"
+      "value": "1296.7",
+      "unit": "gallons",
+      "subtext": "165,982 oz logged this week"
     }
   },
   "bottle": {
-    "fillPercent": 98.59428571428572,
-    "nextMilestone": "175,000 oz"
+    "fillPercent": 99.56529411764706,
+    "nextMilestone": "340,000 oz"
   },
   "content": {
     "showImages": false,
-    "campaignTitle": "Help us fill the bottle!",
-    "campaignSubtitle": "Every ounce logged adds to the splash.",
+    "campaignTitle": "FIRST PLACE",
+    "campaignSubtitle": "Beth Schiavello",
     "topCardHeader": "LET'S GET HYDRATED!",
     "bottomCardHeader": "HELP US FILL THE BOTTLE",
     "bottomRightImageTitle": "Text can go here!",
     "bottomRightImageBody": "Input some text here while images are displayed.",
     "shoutoutSlides": [
       {
-        "topTitle": "Help us fill the bottle!",
-        "topBody": "Every ounce logged adds to the splash.",
-        "bottomTitle": "Sip. Log. Repeat.",
-        "bottomBody": "Take a water break and add your ounces."
+        "topTitle": "FIRST PLACE",
+        "topBody": "Beth Schiavello",
+        "bottomTitle": "Hydration Challenge Winners!",
+        "bottomBody": "Congratulations to our Lighthouse Hydration Challenge winners! ?"
       },
       {
-        "topTitle": "Hydration Challenge!",
-        "topBody": "Lighthouse HQ is making waves.",
-        "bottomTitle": "Every refill counts.",
-        "bottomBody": "Small sips. Big splash."
+        "topTitle": "SECOND PLACE",
+        "topBody": "Mary White",
+        "bottomTitle": "Cheers to Our Hydration Challenge Winners!",
+        "bottomBody": "Thanks to everyone who participated and made healthy hydration a priority. Keep those good habits flowing!"
       },
       {
-        "topTitle": "Water you waiting for?",
-        "topBody": "Log your ounces today.",
+        "topTitle": "THIRD PLACE",
+        "topBody": "Ray Will",
         "bottomTitle": "The bottle is thirsty.",
-        "bottomBody": "Help us keep it rising."
+        "bottomBody": "You showed up, stayed consistent, and kept those water bottles working overtime."
       },
       {
-        "topTitle": "Stay hydrated. Stay energized.",
-        "topBody": "Track your water throughout the day.",
+        "topTitle": "The results are in!",
+        "topBody": "Keep up the great work ? and keep that water bottle close!",
         "bottomTitle": "Refill. Refresh. Repeat.",
-        "bottomBody": "Then add your ounces."
+        "bottomBody": "Here?s to keeping the healthy habits going!"
       },
       {
         "topTitle": "Make waves today.",
-        "topBody": "Every ounce helps fill the bottle.",
+        "topBody": "Pour It Up for Our Winners!",
         "bottomTitle": "Team Lighthouse is flowing.",
-        "bottomBody": "Keep the challenge going."
+        "bottomBody": "Congratulations to our winners, and a big thank-you to everyone who participated."
       }
     ]
   },
   "images": [],
   "latestEntry": {
     "name": "Lighthouse HQ",
-    "ounces": 79992,
-    "submittedAt": "2026-08-06T00:15:23.000Z"
+    "ounces": 165982,
+    "submittedAt": "2026-08-20T20:38:47.000Z"
   },
-  "updatedAt": "2026-08-20T20:37:54.734Z"
+  "updatedAt": "2026-08-20T20:42:47.669Z"
 });
