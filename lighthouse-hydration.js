@@ -56,7 +56,7 @@ receiveHydrationTracker({
       },
       {
         "topTitle": "Make waves today.",
-        "topBody": "Pour It Up for Our Winners!",
+        "topBody": "Keep those healthy hydration habits flowing.",
         "bottomTitle": "Team Lighthouse is flowing.",
         "bottomBody": "Congratulations to our winners, and a big thank-you to everyone who participated."
       }
@@ -68,5 +68,5 @@ receiveHydrationTracker({
     "ounces": 165982,
     "submittedAt": "2026-08-20T20:38:47.000Z"
   },
-  "updatedAt": "2026-08-20T20:42:47.669Z"
+  "updatedAt": "2026-08-20T20:47:48.129Z"
 });
