@@ -3,7 +3,7 @@ receiveHydrationTracker({
   "campaignTitle": "Beth Schiavello",
   "campaignSubtitle": "FIRST PLACE",
   "totalOunces": 338522,
-  "weekOunces": 165982,
+  "weekOunces": 0,
   "participants": 1,
   "display": {
     "total": {
@@ -12,9 +12,9 @@ receiveHydrationTracker({
       "subtext": "338,522 oz logged to date"
     },
     "week": {
-      "value": "1296.7",
-      "unit": "gallons",
-      "subtext": "165,982 oz logged this week"
+      "value": "0",
+      "unit": "oz",
+      "subtext": "0 oz logged this week"
     }
   },
   "bottle": {
@@ -68,5 +68,5 @@ receiveHydrationTracker({
     "ounces": 165982,
     "submittedAt": "2026-08-20T20:38:47.000Z"
   },
-  "updatedAt": "2026-08-24T03:57:52.179Z"
+  "updatedAt": "2026-08-24T04:02:49.383Z"
 });
