@@ -2,8 +2,44 @@
 <rss version="2.0">
   <channel>
     <title>Lighthouse Credit Union Careers</title>
-    <lastBuildDate>2026-09-10T17:25:38.749Z</lastBuildDate>
-    <jobCount>13</jobCount>
+    <lastBuildDate>2026-09-17T15:06:06.480Z</lastBuildDate>
+    <jobCount>15</jobCount>
+    <item>
+      <guid>637999702</guid>
+      <title>Director, Retail Delivery - South Region</title>
+      <link>https://secure7.saashr.com/ta/6149420.careers?CareersSearch=&amp;lang=en-US</link>
+      <location>Dover, NH</location>
+      <city>Dover</city>
+      <state>NH</state>
+      <address>Hybrid</address>
+      <employmentType>Exempt - FT</employmentType>
+      <category>hq</category>
+      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;Hybrid&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Dover&quot;,&quot;state&quot;:&quot;NH&quot;,&quot;zip&quot;:&quot;03820&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
+    </item>
+    <item>
+      <guid>637999698</guid>
+      <title>Director, Retail Delivery - North Region</title>
+      <link>https://secure7.saashr.com/ta/6149420.careers?CareersSearch=&amp;lang=en-US</link>
+      <location>Dover, NH</location>
+      <city>Dover</city>
+      <state>NH</state>
+      <address>Hybrid</address>
+      <employmentType>Exempt - FT</employmentType>
+      <category>hq</category>
+      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;Hybrid&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Dover&quot;,&quot;state&quot;:&quot;NH&quot;,&quot;zip&quot;:&quot;03820&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
+    </item>
+    <item>
+      <guid>638001217</guid>
+      <title>Teller / Member Experience Specialist I</title>
+      <link>https://secure7.saashr.com/ta/6149420.careers?CareersSearch=&amp;lang=en-US</link>
+      <location>Lee, NH</location>
+      <city>Lee</city>
+      <state>NH</state>
+      <address>145 Calef Highway</address>
+      <employmentType>Non-Exempt - FT</employmentType>
+      <category>retail</category>
+      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;145 Calef Highway&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Lee&quot;,&quot;state&quot;:&quot;NH&quot;,&quot;zip&quot;:&quot;03861&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
+    </item>
     <item>
       <guid>621280984</guid>
       <title>Mortgage Loan Pipeline Processor</title>
@@ -111,18 +147,6 @@
       <employmentType>Non-Exempt - FT</employmentType>
       <category>retail</category>
       <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;9 Members Way&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Dover&quot;,&quot;state&quot;:&quot;NH&quot;,&quot;zip&quot;:&quot;03820&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
-    </item>
-    <item>
-      <guid>621219469</guid>
-      <title>Teller / Member Service Representative I</title>
-      <link>https://secure7.saashr.com/ta/6149420.careers?CareersSearch=&amp;lang=en-US</link>
-      <location>Sanford, ME</location>
-      <city>Sanford</city>
-      <state>ME</state>
-      <address>48 Alfred Road</address>
-      <employmentType>Non-Exempt - FT</employmentType>
-      <category>retail</category>
-      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;48 Alfred Road&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Sanford&quot;,&quot;state&quot;:&quot;ME&quot;,&quot;zip&quot;:&quot;04073&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
     </item>
     <item>
       <guid>621217992</guid>
