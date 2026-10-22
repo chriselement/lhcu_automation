@@ -2,8 +2,20 @@
 <rss version="2.0">
   <channel>
     <title>Lighthouse Credit Union Careers</title>
-    <lastBuildDate>2026-10-22T13:51:03.382Z</lastBuildDate>
-    <jobCount>12</jobCount>
+    <lastBuildDate>2026-10-22T14:06:03.222Z</lastBuildDate>
+    <jobCount>13</jobCount>
+    <item>
+      <guid>638049472</guid>
+      <title>Check Processing Specialist</title>
+      <link>https://secure7.saashr.com/ta/6149420.careers?CareersSearch=&amp;lang=en-US</link>
+      <location>Dover, NH</location>
+      <city>Dover</city>
+      <state>NH</state>
+      <address>Hybrid</address>
+      <employmentType></employmentType>
+      <category>hq</category>
+      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;Hybrid&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Dover&quot;,&quot;state&quot;:&quot;NH&quot;,&quot;zip&quot;:&quot;03820&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
+    </item>
     <item>
       <guid>638046099</guid>
       <title>Consumer Loan Operations Specialist</title>
