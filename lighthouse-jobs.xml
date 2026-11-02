@@ -2,8 +2,20 @@
 <rss version="2.0">
   <channel>
     <title>Lighthouse Credit Union Careers</title>
-    <lastBuildDate>2026-11-02T18:36:04.372Z</lastBuildDate>
-    <jobCount>13</jobCount>
+    <lastBuildDate>2026-11-02T18:51:03.246Z</lastBuildDate>
+    <jobCount>14</jobCount>
+    <item>
+      <guid>654779461</guid>
+      <title>Teller / Member Service Representative I</title>
+      <link>https://secure7.saashr.com/ta/6149420.careers?CareersSearch=&amp;lang=en-US</link>
+      <location>Biddeford, ME</location>
+      <city>Biddeford</city>
+      <state>ME</state>
+      <address>1 Pool Street</address>
+      <employmentType>Non-Exempt - FT</employmentType>
+      <category>retail</category>
+      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;1 Pool Street&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Biddeford&quot;,&quot;state&quot;:&quot;ME&quot;,&quot;zip&quot;:&quot;04005&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
+    </item>
     <item>
       <guid>638052053</guid>
       <title>Senior Enterprise Analytics Analyst</title>
