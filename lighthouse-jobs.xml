@@ -2,8 +2,44 @@
 <rss version="2.0">
   <channel>
     <title>Lighthouse Credit Union Careers</title>
-    <lastBuildDate>2026-11-17T20:06:03.633Z</lastBuildDate>
-    <jobCount>11</jobCount>
+    <lastBuildDate>2026-11-17T20:21:03.188Z</lastBuildDate>
+    <jobCount>14</jobCount>
+    <item>
+      <guid>654790979</guid>
+      <title>Member Service Representative III</title>
+      <link>https://secure7.saashr.com/ta/6149420.careers?CareersSearch=&amp;lang=en-US</link>
+      <location>Northwood, NH</location>
+      <city>Northwood</city>
+      <state>NH</state>
+      <address>144 1st New Hampshire Turnpike</address>
+      <employmentType>Non-Exempt - FT</employmentType>
+      <category>retail</category>
+      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;144 1st New Hampshire Turnpike&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Northwood&quot;,&quot;state&quot;:&quot;NH&quot;,&quot;zip&quot;:&quot;03261&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
+    </item>
+    <item>
+      <guid>654790977</guid>
+      <title>Assistant Branch Manager</title>
+      <link>https://secure7.saashr.com/ta/6149420.careers?CareersSearch=&amp;lang=en-US</link>
+      <location>Portsmouth, NH</location>
+      <city>Portsmouth</city>
+      <state>NH</state>
+      <address>750 Lafayette Road</address>
+      <employmentType>Exempt - FT</employmentType>
+      <category>retail</category>
+      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;750 Lafayette Road&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Portsmouth&quot;,&quot;state&quot;:&quot;NH&quot;,&quot;zip&quot;:&quot;03801&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
+    </item>
+    <item>
+      <guid>654785501</guid>
+      <title>Lender / Member Service Representative II</title>
+      <link>https://secure7.saashr.com/ta/6149420.careers?CareersSearch=&amp;lang=en-US</link>
+      <location>Portsmouth, NH</location>
+      <city>Portsmouth</city>
+      <state>NH</state>
+      <address>750 Lafayette Road</address>
+      <employmentType>Non-Exempt - FT</employmentType>
+      <category>retail</category>
+      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;750 Lafayette Road&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Portsmouth&quot;,&quot;state&quot;:&quot;NH&quot;,&quot;zip&quot;:&quot;03801&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
+    </item>
     <item>
       <guid>654779461</guid>
       <title>Teller / Member Service Representative I</title>
