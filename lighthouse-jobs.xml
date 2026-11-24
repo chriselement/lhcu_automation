@@ -2,8 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Lighthouse Credit Union Careers</title>
-    <lastBuildDate>2026-11-24T13:06:04.278Z</lastBuildDate>
-    <jobCount>13</jobCount>
+    <lastBuildDate>2026-11-24T13:21:03.223Z</lastBuildDate>
+    <jobCount>11</jobCount>
     <item>
       <guid>654800332</guid>
       <title>Senior Atlassian Administrator and Solutions Architect</title>
@@ -27,18 +27,6 @@
       <employmentType>Exempt - FT</employmentType>
       <category>hq</category>
       <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;100 Lighthouse Drive&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Dover&quot;,&quot;state&quot;:&quot;NH&quot;,&quot;zip&quot;:&quot;03820&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
-    </item>
-    <item>
-      <guid>654800321</guid>
-      <title>CI/CD Pipeline Engineer</title>
-      <link>https://secure7.saashr.com/ta/6149420.careers?CareersSearch=&amp;lang=en-US</link>
-      <location>Dover, NH</location>
-      <city>Dover</city>
-      <state>NH</state>
-      <address>This job is Remote</address>
-      <employmentType></employmentType>
-      <category>hq</category>
-      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;This job is Remote&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Dover&quot;,&quot;state&quot;:&quot;NH&quot;,&quot;zip&quot;:&quot;03820&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
     </item>
     <item>
       <guid>654790979</guid>
@@ -87,18 +75,6 @@
       <employmentType></employmentType>
       <category>hq</category>
       <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;This job is Remote&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Dover&quot;,&quot;state&quot;:&quot;NH&quot;,&quot;zip&quot;:&quot;03820&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
-    </item>
-    <item>
-      <guid>638046098</guid>
-      <title>Consumer Loan Servicing Specialist</title>
-      <link>https://secure7.saashr.com/ta/6149420.careers?CareersSearch=&amp;lang=en-US</link>
-      <location>Dover, NH</location>
-      <city>Dover</city>
-      <state>NH</state>
-      <address>Hybrid</address>
-      <employmentType></employmentType>
-      <category>hq</category>
-      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;Hybrid&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Dover&quot;,&quot;state&quot;:&quot;NH&quot;,&quot;zip&quot;:&quot;03820&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null}</sourceLocation>
     </item>
     <item>
       <guid>638047432</guid>
